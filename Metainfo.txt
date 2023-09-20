@@ -1,6 +1,6 @@
 Name of Quantlet: Math-Stat-Chap01-prob
 
-Published in: 
+Published in: ' '
 
 Description: 'Mathematical Statistics; Chapter 1: Probability'
 
