@@ -9,3 +9,5 @@ Keywords: probability, math, birthday coincidence, statistics, python, set opera
 Author: Huei-Wen TENG
 
 Submitted:  20.09.2023
+
+CodeFile: https://colab.research.google.com/drive/1QM4lwy3EDU7HWFIU8O4Kokdzq3HeuhWf#scrollTo=YEGBmNkPWcX_ 
